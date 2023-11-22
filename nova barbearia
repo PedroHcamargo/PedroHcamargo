@@ -28,5 +28,22 @@
     <inpit type="text" id-"sobrenome"class-"input-padrao" required>
 
     <label for="email">fmail</label>
-    <input lype="text" id-"nomesobrenome" class-"input-padrao" raquired>
+    <input lype="text" id-"nomesobrenome" class-"input-padrao" raquired placeholder="seuemail@dominio.com">
 
+    <label for="telefone">telefone</label>
+    inout type="tel" id-"telefone class-"input padrao" required placeholder="(xx) xxxx-xxxx">
+
+    <label for="mensagem">mensagem</label>
+    <textarea cols="70" id="mensagem" class="required></textarea>
+
+  <fildset>
+    <legend>como prefere o nosso contato?</legend>
+    <label for-"radio=email"><input type-"radio "name-"campblue-" id="radio-email"> email</label>
+
+    <label for-"radio-telefone"><input type-"radio" campblue-"email id="radio-email">email>/label
+
+    <label for="radio-whatsapp"><input type="radio ""name-" value-"whatsapp" id="radio.whatsapp" chcked> whatsapp</label>
+</fieldset>
+
+</fieldset>
+   <legend>qual horario prefere ser atendido?</legend>
