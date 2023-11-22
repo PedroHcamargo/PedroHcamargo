@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>prdutos - barbearia alura</tittle>
+
+<link rel="stylesheet" href="reset.css">
+<link rel"stylesheet" href="produtos.css">
+</head>
+<body>
+<header>
+<div class="caixa">
+  <h1><img src-"logo.png"></h1>
+
+    <nav>
+      <ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="produtos.html">produtos</a></li>
+      <li><a href="contato.html">contato</a></li>
+     </ul>
+   </nav>
+ </div>
+</header>
+
+<main>
+  <form>
+    <label forn="nomesobrenome">nome e sobrenome</label>
+    <inpit type="text" id-"sobrenome"class-"input-padrao" required>
+
+    <label for="email">fmail</label>
+    <input lype="text" id-"nomesobrenome" class-"input-padrao" raquired>
 
